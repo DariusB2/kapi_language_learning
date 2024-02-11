@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/lingua-learn.git
+git clone
 Open the project in Android Studio.
 
 Build and run the application on your Android emulator or physical device.
