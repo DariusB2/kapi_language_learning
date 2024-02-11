@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#63A680">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#63A680">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/perfect_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            he hablado = I have spoken\n
+            he aprendido = I have learned\n
+            he vivido = I have lived" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/imperfect_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            hablaba = spoken\n
+            aprendía = learned\n
+            vivía = lived\n" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/preterite_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            hablé = I talked\n
+            aprendí = I learned\n
+            viví = I lived\n" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/past_perfect_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            había hablado = I had talked\n
+            había aprendido = I had learned\n
+            había vivido = I had lived\n" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/preterite_perfect_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            hube hablado = I will have spoken\n
+            hube aprendido = I will have learned\n
+            hube vivido = I will have lived\n" />
+    </LinearLayout>
+</ScrollView>

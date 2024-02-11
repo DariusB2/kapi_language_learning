@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miItem3"
+        android:title="Languages">
+        <menu>
+            <item
+                android:id="@+id/subItemLanguages1"
+                android:title="German"
+                android:icon="@drawable/german_flag_icon"/>
+            <item
+                android:id="@+id/subItemLanguages2"
+                android:title="Spanish"
+                android:icon="@drawable/spain_flag_icon"/>
+            <item
+                android:id="@+id/subItemLanguages3"
+                android:title="Romanian"
+                android:icon="@drawable/romanian_flag_icon"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/miItem4"
+        android:title="About the app">
+        <menu>
+            <item
+                android:id="@+id/subItemAbout1"
+                android:title="About the creator"
+                android:icon="@drawable/icon_about_creator">
+            </item>
+            <item
+                android:id="@+id/subItemAbout2"
+                android:title="Credits"
+                android:icon="@drawable/icon_credits">
+            </item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/miItem5"
+        android:title="Logout">
+    </item>
+</menu>

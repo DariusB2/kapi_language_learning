@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#63A680">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#63A680">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/present_romanian"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16sp"
+            android:text="
+        eu cânt — I sing, I am singing\n
+        tu cânți — you sing, you are singing\n
+        eu citesc — I read, I am reading\n
+        el citește — he reads, he is reading\n" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/chowchow_four"
+            android:layout_marginHorizontal="20dp" />
+    </LinearLayout>
+</ScrollView>

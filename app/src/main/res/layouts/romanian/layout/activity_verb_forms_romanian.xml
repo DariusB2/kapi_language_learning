@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#63A680">
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/text_view_present_romanian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Present"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:background="@drawable/gradient_background_green"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/text_view_past_romanian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Past"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:background="@drawable/gradient_background_green"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/text_view_future_romanian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Future"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:background="@drawable/gradient_background_green"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/chowchow_three"/>
+</LinearLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#63A680">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#63A680">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_goto_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            voy a hablar = Ia m going to talk\n
+            voy a aprender = I am going to learn\n
+            voy a vivir = I am going to live" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_simple_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            hablaré = I will talk\n
+            aprenderé = I will learn\n
+            viviré = I will live" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_perfect_spanish"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            habré hablado = I will have spoken\n
+            habré aprendido = I will have learned\n
+            habré vivido = I will have lived" />
+    </LinearLayout>
+</ScrollView>

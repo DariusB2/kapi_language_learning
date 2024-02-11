@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Kapi Language Learning</string>
+    <string name="present_german"><b><i>Present (Präsens)</i></b>\n   It is the present-conjugated form of the infinitive. It is the most important tense in German. The Present tense is mainly used for simple present, present progressive, as well as for future. It is also used for historical past.</string>
+    <string name="preterite_german"><b><i>Preterite (Imperfekt, Präteritum)</i></b>\n   It is the past-conjugated form of the infinitive. This past tense is mainly used in written German and formal speech, except for some frequent verbs whose preterite forms are common colloquially (such as ich war, ich hatte, ich kam). It is also used for past progressive. Otherwise the perfect is much preferred in the colloquial.</string>
+    <string name="perfect_german"><b><i>Perfect (Perfekt)</i></b>\n   It is the present-conjugated form of the perfect infinitive. This tense has (widely) the same meaning as the preterite, and very often replaces the latter in colloquial German. An English perfect tense is often expressed by the present in German. For example, \'I have lived in Germany for three years now.\' → Ich lebe jetzt seit drei Jahren in Deutschland. (Literally: \'I live now for three years in Germany.\')</string>
+    <string name="pluperfect_german"><b><i>Pluperfect / Past Perfect (Plusquamperfekt)</i></b>\n   It is the past-conjugated form of the perfect infinitive. It can be thought of as the perfect form of the Preterite, used to describe what already had happened at a certain point in the past. If the context is unambiguous, the perfect or preterite may be used instead (as in English).</string>
+    <string name="future_german"><b><i>Future (Futur I)</i></b>\n   It is the present-conjugated form of the future infinitive. It generally describes the future, but also expresses an assumption for the present. In contrast to English, the future tense is usually replaced by the present tense if the future meaning is already evident from the context.</string>
+    <string name="future_perfect_german"><b><i>Future Perfect (Futur II)</i></b>\n   It is the present-conjugated form of the future infinitive of the perfect infinitive. It describes what will have happened at a certain point in the future (past of the future), but the simple perfect, or even present (and by a not uncommon pupil mistake, Futur I, though that is universally judged incorrect), is preferred instead if the future meaning is evident from the context.</string>
+
+    <string name="present_romanian"><b><i>Prezent (Present)</i></b>\n   Verbs in the present tense express an action that takes place at the moment of speaking.</string>
+    <string name="preterite_romanian"><b><i>Perfect Simplu (Simple Perfect, Preterite)</i></b>\n   Outside of the region of Oltenia (in South-West Romania) this tense is not commonly used. In most parts of Romania, the Perfect compus (or compound perfect) is preferred. In places where the compus is preferred, when the simple perfect is used, it generally indicates that an action was completed in the very near past.</string>
+    <string name="imperfect_romanian"><b><i>Imperfect (Imperfect)</i></b>\n   Verbs in imperfect tense express an unfinished action that takes place in the past from the moment of speaking.</string>
+    <string name="pluperfect_romanian"><b><i>Mai mult ca Perfect (Pluperfect)</i></b>\n   Verbs in pluperfect tense express a past action, performed before another past action.</string>
+    <string name="future_i_romanian"><b><i>Viitor I (Future)</i></b>\n   Verbs in the future tense express an action that will be performed after the moment of speaking.</string>
+    <string name="future_ii_romanian"><b><i>Viitor 2 (Future Perfect)</i></b>\n   The future perfect is formed by using the above auxiliaries with <i>fi</i> and the past participle.</string>
+    <string name="future_popular_i_romanian"><b><i>Viitor Popular 1 (Future Popular 1)</i></b>\n   The first type of popular future is formed simply by adding "o" to the subjunctive form of a verb.</string>
+    <string name="future_popular_ii_romanian"><b><i>Viitor Popular 2 (Future Popular 2)</i></b>\n   The second type of popular future is slightly more complicated than the first type. It is formed simply by adding the present tense form of avea to the subjunctive form of a verb.</string>
+    <string name="future_past_romanian"><b><i>Viitor în Trecut (Future in the past)</i></b>\n   The future in the past is formed with the imperfect tenses of avea (seen above) with the subjunctive form of a verb.</string>
+
+    <string name="present_spanish"><b><i>Presente (Present)</i></b>\n   This verb tense is used to talk about the present.</string>
+    <string name="perfect_spanish"><b><i>Pretérito Perfecto (Perfect)</i></b>\n  Verbs in perfect tense express completed actions which still influences the present.</string>
+    <string name="imperfect_spanish"><b><i>Pretérito Imperfecto (Imperfect)</i></b>\n   Imperfect tense expresses a past action without a definite beginning or end, as well as the usual repetition of a past event..</string>
+    <string name="preterite_spanish"><b><i>Pretérito Indefinido (Preterite)</i></b>\n   Past tense is used for previous actions completed once or actions that interrupt another past action.</string>
+    <string name="past_perfect_spanish"><b><i>Pretérito Plusquamperfecto (Past Perfect)</i></b>\n   Past perfect is used to describe an action that took place before a certain point in the past.</string>
+    <string name="preterite_perfect_spanish"><b><i>Pretérito Anterior (Preterite Perfect)</i></b>\n   The perfect past tense is hard to use nowadays. It expresses something that happened shortly before another action.</string>
+    <string name="future_goto_spanish"><b><i>Futuro Próximo (Future go + to)</i></b>\n   The future (ir + a) is often used instead of the simple future in spoken Spanish..</string>
+    <string name="future_simple_spanish"><b><i>Futuro Simplo (Future Simple)</i></b>\n   The future tense is generally used to express an intention about the future or an assumption about the present or the future.</string>
+    <string name="future_perfect_spanish"><b><i>Futuro Compuesto (Future Perfect)</i></b>\n   The perfect future expresses the assumption or assumption that an action will be completed by the present moment or by a point in the future.</string>
+
+    <string name="german_fact_example">The German language (Deutsch) is a West Germanic language mainly spoken in Central Europe. It is the most widely spoken and official or co-official language in Germany, Austria, Switzerland, Liechtenstein, and the Italian province of South Tyrol. It is also a co-official language of Luxembourg, Belgium and parts of southwestern Poland, as well as a national language in Namibia.</string>
+    <string name="spanish_fact_example">The language known today as Spanish is derived from a dialect of spoken Latin, which was brought to the Iberian Peninsula by the Romans during the Second Punic War, beginning in 218 BC, and which evolved in central parts of the Iberian Peninsula after the fall of the Western Roman Empire in the fifth century. A written standard was developed in the cities of Toledo (13th to 16th centuries) and Madrid (from the 1560s).</string>
+    <string name="romanian_fact_example">Romanian is a Balkan Romance language spoken by approximately 24–26 million people as a native language, primarily in Romania and Moldova, and by another 4 million people as a second language. According to another estimate, there are about 34 million people worldwide who can speak Romanian, of whom 30 million speak it as a native language.</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="linktositeicons">
+        <a href="https://freeicons.io/profile/3">Icons by icon king1 on freeicons.io</a>
+    </string>
+    <string name="linktoicons">
+        <a href="https://www.flaticon.com/authors/freepik">Icons made by Freepik from flaticon.com</a>
+    </string>
+    <string name="linktositeicons2">
+        <a href="https://freeicons.io/profile/722">Icons by Fasil on freeicons.com</a>
+    </string>
+    <string name="linktowiki">
+        <a href="https://en.wikipedia.org/wiki/German_verbs">German verb forms info by wikipedia.com</a>
+    </string>
+    <string name="linktositeicons3">
+        <a href="https://freeicons.io/profile/5596">Icons by shivani on freeicons.com</a>
+    </string>
+    <string name="linktositeicons4">
+        <a href="https://freeicons.io/profile/714">Icons by Raj Dev on freeicons.com</a>
+    </string>
+    <string name="linktoimages">
+         Images by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=162428">OpenClipart-Vectors</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=162428">Pixabay</a>
+    </string>
+    <string name="linktogermanfacts">
+        <a href= "https://en.wikipedia.org/wiki/German_language">German language facts by wikipedia.com</a>
+    </string>
+    <string name="linktovisitableplacesphotos">
+        <a href= "https://unsplash.com/">Visitable places photos by unsplash.com</a>
+    </string>
+    <string name="linktowikiro">
+        <a href="https://en.wiktionary.org/wiki/Appendix:Romanian_verb_conjugation">Romanian verb forms by wikipedia.com</a>
+    </string>
+    <string name="linktowikiesp">
+        <a href="https://en.wiktionary.org/wiki/Appendix:Spanish_verbs">Spanish verb forms by wikipedia.com</a>
+    </string>
+
+
+    <string name="basic_german"><h1><b><i>Ways to say hello in German:\n</i></b></h1>\nHallo = Hello\nGuten Tag = Good day\nGuten Morgen = Good morning\nGuten Abend = Good evening\n
+        <h1><b><i>\nWays to say goodbye in German:\n</i></b></h1>\nTschüss = goodbye\nCiao = Bye\nAuf Wiedersehen = Farewell\nGute Nacht = Goodnight\nBis bald = See you soon\n
+        <h1><b><i>\nPersonal Pronouns (=Personalpronomen):\n</i></b></h1><h2><b><i>\nNominativ:\n</i></b></h2>\nich = I; du = you; er = he; sie = she; es = it; wir = we; ihr = them; sie = you; Sie = You (=Höflichkeitsform).\n
+        <h2><b><i>\nNominativ:\n</i></b></h2>\nmeiner = mine; deiner = yours; seiner =his; ihrer = hers; seiner = its; unser = ours;	euer = yours; ihrer = theirs.\n
+        <h2><b><i>\nDativ:\n</i></b></h2>\nmir = me;dir = you; ihm = him; ihr = her; ihm = it; uns = us; euch = you; ihnen = them; Ihnen = You (=Höflichkeitsform).\n
+        <h2><b><i>\nAkkusativ:\n</i></b></h2>\nmich = me; dich = you;	ihn = him; sie = her; es = it; uns = us; euch = you; sie = them; Sie = You (=Höflichkeitsform).\n
+        <h1><b><i>\nAdverbs of place(=Advierben des Ortes)\n</i></b></h1>\nWo? = Where?\nWoher? = Where from?\nWohin? = Where to?\n
+        <h1><b><i>\nAdverbs of time(=Advierben der Zeit)\n</i></b></h1>\nWann? = When?\nWie lange? = How long?\nAb wann? = From when?\n Bis wann? = By when?\n
+        <h1><b><i>\nCausal adverbs(=Kausaladverbien)\n</i></b></h1>\nWarum? = Why?\nWeshalb? = For which reason?\nWieso? = How so?\nUnter welcher Bedingung? = Under which condition?\n
+    </string>
+    <string name="numbers_german"><h1><b><i>Numbers\n</i></b></h1>\n0 = null\n1 = eins\n2 = zwei\n3 = drei\n4 = vier\n5 = fünf\n6 = sechs\n7 = sieben\n8 = acht\n9 = neun\n10 = zehn\n11 = elf\n12 = zwölf\n13 = dreizehn\n14 = vierzehn\n15 = fünfzehn\n16 = sechszehn\n17 = siebenzehn\n18 = achtzehn\n19 = neunzehn\n20 = zwahnzig\n21 = einundzwanzig\n22 = zweiundzwanzig\n23  = dreiundzwanzig\n24 = vierundzwanzig\n25 = fünfundzwanzig\n26 = sechsundzwanzig\n27 = siebenundzwanzig\n28 = achtundzwanzig\n29 = neunundzwanzig\n30 = dreißig\n40 = vierzig\n50 = fünfzig\n60 = sechzig\n70 = siebzig\n80 = achtzig\n90 = neunzig\n100 = hundert\n200 = zweihundert\n300 = dreihundert\n252 = zweihundertdreiundfünfzig\n1000 = tausend\n2000 = zweitausend\n3000 = dreitausend\n3627 = dreitausendsechshundert siebenundzwanzig\n10,000 = zehntausand\n100,000 = hunderttausend\none Million = eine Million\none Billion = eine Milliarde\n
+    </string>
+    <string name="time_german"><h1><b><i>Time\n</i></b></h1>\ndie Stunden = the hours\ndie Stunde = the hour\nWie spät ist es? = What time is it?\nEs is x Uhr. = It is x o’clock.\nHalb = half\nViertel = quarter\nnach = past\nvor = to\n\n<b>When there is a full hour you must put the <i>Uhr</i> word at the end.</b>\n08:00\nEs ist 8 Uhr. = It is 8 o’clock.\n12:00\nEs ist 12 Uhr. = It is 12 o’clock.\n\n<b>When there is not a full hour and there are minutes, you put the word <i>Uhr</i> between the hour and the minutes.</b>\n3:19\nEs ist drei Uhr neunzehn. = It is three nineteen.\n6:42\nEs ist sechs Uhr zweiundvierzig. = It is six forty-two.\n\n<b>You can use the word <i>nach</i> to tell how many minutes have past the hour.</b>\n9:05\nEs ist fünf nach neun. = It is five past nine.\n2:10\nEs ist zehn nach zwei. = It is ten past two.\n\n<b>The word <i>vor</i> can be used when you have less than 30 minutes to the next hour only.</b>\n4:50\nEs ist zehn vor fünf. = It is ten to five.\n7:31\nEs ist neundundzwanzig vor acht. = It is twenty-nine to eight\n\n<b>When there is only quarter left or only a quarter has past, you can use the word <i>viertel</i>.</b>\n3:45\nEs ist viertel vor vier = It is quarter to four\n1:15\nEs ist viertel nach ein. = It is quarter past one.\n\n<b>When you have only 30 minutes left to the next hour you can use the word <i>halb</i>, but you must add the next hour.</b>\n8:30\nEs ist halb neun. = It is half past eight.\n2:30\nEs ist halb drei. = It is half past two.\n
+    </string>
+    <string name="date_german"><h2><b><i>Days of the week\n</i></b></h2>\nMontag = Monday\nDienstag = Tuesday\nMittwoch = Wednesday\nDonnerstag = Thursday\nFreitag = Friday\nSamstag = Saturday\nSonntag = Sunday \n
+        <h2><b><i>\nThe months\n</i></b></h2>\nJanuar  = January\nFebruar  = February\nMärz  = March\nApril = April\nMai = May\nJuni = June\nJuli = July\nAugust = August\nSeptember = September\nOktober  = October\nNovember = November\nDezember = December\n
+        <h2><b><i>\nThe seasons\n</i></b></h2>\nFrühling  = Spring\nSommer = Summer\nHerbst  = Autumn\nWinter = Winter\n
+    </string>
+
+    <string name="basic_romanian"><h1><b><i>Ways to say hello in Romanian:\n</i></b></h1>\nBună! = Hello!\nBună ziua! = Good day!\nBună dimineața! = Good morning!\nBună seara! = Good evening!\n
+        <h1><b><i>\nWays to say goodbye in Romanian:\n</i></b></h1>\nLa revedere! = Goodbye!\nPa pa! = Bye Bye!\nRămas bun! = Farewell!\nNoapte bună! = Goodnight\nPe curând! = See you soon!\n
+        <h1><b><i>\nPersonal Pronouns (=Pronumele personale):\n</i></b></h1><h2><b><i>\nNominativ:\n</i></b></h2>\neu = I; tu = you; el = he; ea = she; el/ea = it; noi = we; voi = you; ei = them; voi(politețe) = You.\n
+        <h2><b><i>\nGenitiv:\n</i></b></h2>\nal meu = mine; al tău = yours; al lui = his; al ei = hers; al ei/al lui = its; al nostru = ours;	al vostru = yours; al lor = theirs.\n
+        <h2><b><i>\nDativ:\n</i></b></h2>\nmie = me; ție = you; lui = him; ei = her; lui/ei = it; nouă = us; vouă = you; lor = them.\n
+        <h2><b><i>\nAcuzativ:\n</i></b></h2>\npe mine = me; pe tine = you;	pe el = him; pe ea = her; pe el/pe ea = it; pe noi = us; pe voi = you; pe ei/ele = them; pe dumneavostră = on You.\n
+        <h1><b><i>\nAdverbs of place(=Adverbe de loc)\n</i></b></h1>\nUnde? = Where?\nDe unde? = Where from?\nÎncotro? = Where to?\n
+        <h1><b><i>\nAdverbs of time(=Adverbe de timp)\n</i></b></h1>\nCând? = When?\nCât de mult = How long?\nDe când? = From when?\nPână când? = By when?\n
+        <h1><b><i>\nCausal adverbs(=Adverbe de cauză)\n</i></b></h1>\nDe ce? = Why?\nCu ce scop? = For which reason?\nCum așa? = How so?\nCu ce condiție? = Under which condition?\n
+    </string>
+    <string name="numbers_romanian"><h1><b><i>Numbers\n</i></b></h1>\n0 = zero\n1 = unu\n2 = doi\n3 = trei\n4 = patru\n5 = cinci\n6 = șase\n7 = șapte\n8 = opt\n9 = nouă\n10 = zece\n11 = unsprezece\n12 = doisprezece\n13 = treisprezece\n14 = paisprezece\n15 = cincisprezece\n16 = șaisprezece\n17 = șaptesprezece\n18 = optsprezece\n19 = nouăsprezece\n20 = douăzeci\n21 = douăzeci și unu\n22 = douăzeci și doi\n23  = douăzeci și trei\n24 = douăzeci și patru\n25 = douăzeci și cinci\n26 = douăzeci și șase\n27 = douăzeci și șapte\n28 = douăzeci și opt\n29 = douăzeci și nouă\n30 = treizeci\n40 = patruzeci\n50 = cincizeci\n60 = șaizeci\n70 = șaptezeci\n80 = optzeci\n90 = nouăzeci\n100 = o sută\n200 = două sute\n300 = trei sute\n252 = două sute cincizeci și doi\n1000 = o mie\n2000 = două mii\n3000 = trei mii\n3627 = trei mii șase sute douăzeci și șapte\n10,000 = zece mii\n100,000 = o sută de mii\none Million = un milion\none Billion = un miliard\n
+    </string>
+    <string name="time_romanian"><h1><b><i>Time\n</i></b></h1>\nOre = hours\nOră = hour\nCât este ceasul? = What time is it?\nEste ora x fix. = It is x o’clock.\njumătate = half\nsfert = quarter\n\n08:00\nEste ora 8. = It is 8 o’clock.\n12:00\nEste ora 12. = It is 12 o’clock.\n\n3:19\nEste ora trei și nouăsprezece minute. = It is three nineteen.\n6:42\nEste ora șase și patruzeci și două de minute. = It is six forty-two.\n\n9:05\nEste ora nouă și cinci minute. = It is five past nine.\n2:10\nEste ora două și zece minute. = It is ten past two.\n\n4:50\nEste ora patru și cincizeci de minute. = It is ten to five.\n7:31\nEste ora șapte și treizeci și unu de minute. = It is twenty-nine to eight\n\n3:45\nEste ora patru fără un sfert. = It is quarter to four\n1:15\nEste ora unu și un sfert. = It is quarter past one.\n\n8:30\nEste ora opt și jumătate. = It is half past eight.\n2:30\nEste ora două și jumătate. = It is half past two.\n
+    </string>
+    <string name="date_romanian"><h2><b><i>Days of the week\n</i></b></h2>\nLuni = Monday\nMarți = Tuesday\nMiercuri = Wednesday\nJoi = Thursday\nVineri = Friday\nSâmbătă = Saturday\nDuminică = Sunday \n
+        <h2><b><i>\nThe months\n</i></b></h2>\nIanuarie  = January\nFebruarie  = February\nMartie  = March\nAprilie = April\nMai = May\nIunie = June\nIulie = July\nAugust = August\nSeptembrie = September\nOctombrie  = October\nNoiembrie = November\nDecembrie = December\n
+        <h2><b><i>\nThe seasons\n</i></b></h2>\nPrimăvară = Spring\nVară = Summer\nToamnă  = Autumn\nIarnă = Winter\n
+    </string>
+
+    <string name="basic_spanish"><h1><b><i>Ways to say hello in Spanish:\n</i></b></h1>\nHola! = Hello!\nBuenas tardes! = Good day!\nBuenos días = Good morning!\nBuenas noches! = Good evening!\n
+        <h1><b><i>\nWays to say goodbye in Spanish:\n</i></b></h1>\nAdiós! = Goodbye!\n¡Nos vemos! = See you!\n¡Nos vemos pronto! = See you soon!\n¡Hasta luego! = See you later!\nBuenas noches! = Goodnight!\n¡Qué tengas un buen día! = Have a good day!\n
+        <h1><b><i>\nPersonal Pronouns (=pronombres personales):\n</i></b></h1><h2><b><i>\nNominativo:\n</i></b></h2>\yo = I; tú = you; él = he; él = she; ella = it; nosotros = we; vosotros = you; ellos/ellas/ustedes = them.\n
+        <h2><b><i>\nGenitivo:\n</i></b></h2>\n(el) mío/	(la) mía = mine; (el) tuyo/(la) tuya = yours; (el) suyo = his; (el) suyo/(la) suya = hers; (el) nuestro/(la) nuestra = ours; (el) vuestro/(la) vuestra = yours; (el)suyo/(la)suyo = theirs.\n
+        <h2><b><i>\nDativo:\n</i></b></h2>\nme = me;te = you; le = him; le = her; le = it; nosotros = us; vosotros = you; ellos/ellas/ustedes = them.\n
+        <h2><b><i>\nAcusativo:\n</i></b></h2>\nme = me; te = you; lo = him; la = her; lo = it; nos = us; os = you; los/las/los = them.\n
+        <h1><b><i>\nAdverbs of place(=adverbios de lugar)\n</i></b></h1>\n¿Dónde? = Where?\n¿De donde? = Where from?\nHasta donde?? = Where to?\n
+        <h1><b><i>\nAdverbs of time(=adverbios de tiempo)\n</i></b></h1>\n¿Cuándo? = When?\n¿Cuánto cuesta? = How long?\n¿Desde? = From when?\n¿Hasta que? = By when?\n
+        <h1><b><i>\nCausal adverbs(=adverbios de causa)\n</i></b></h1>\n¿Por qué? = Why?\n¿Con qué propósito? = For which reason?\n¿Cómo es eso? = How so?\n¿En qué condición? = Under which condition?\n
+    </string>
+    <string name="numbers_spanish"><h1><b><i>Numbers\n</i></b></h1>\n0 = cero\n1 = uno\n2 = dos\n3 = tres\n4 = cuatro\n5 = cinco\n6 = seis\n7 = siete\n8 = ocho\n9 = nueve\n10 = diez\n11 = once\n12 = doce\n13 = trece\n14 = catorce\n15 = quince\n16 = dieciséis\n17 = diecisiete\n18 = dieciocho\n19 = diecinueve\n20 = veinte\n21 = veintiuno\n22 = veintidós\n23  = veintitrés\n24 = veinticuatro\n25 = veinticinco\n26 = veintiséis\n27 = veintisiete\n28 = veintiocho\n29 = veintinueve\n30 = treinta\n40 = cuarenta\n50 = cincuenta\n60 = sesenta\n70 = setenta\n80 = ochenta\n90 = noventa\n100 = centenar\n200 = doscientos\n300 = trescientos\n252 = doscientos cincuenta y dos\n1000 = mil\n2000 = dos mil\n3000 = tres mil\n3627 = tres mil seiscientos veintisiete\n10,000 = diez mil\n100,000 = cien mil\nMillion = millón\nBillion = mil millones\n
+    </string>
+    <string name="time_spanish"><h1><b><i>Time\n</i></b></h1>\nhoras = hours\nhora = hour\n¿Qué hora es? = What time is it?\nSon X en punto. = It is x o’clock.\nmitad = half\ntrimestre = quarter\n\n08:00\nSon las ocho en punto. = It is 8 o’clock.\n12:00\nSon las doce en punto. = It is 12 o’clock.\n\n3:19\nSon las tres y diecinueve. = It is three nineteen.\n6:42\nSon las seis cuarenta y dos minutos. = It is six forty-two.\n\n9:05\nSon las nueve y cinco minutos. = It is five past nine.\n2:10\nSon las diez y dos minutos. = It is ten past two.\n\n4:50\nSon las cuatro y cincuenta. = It is ten to five.\n7:31\nSon las siete y treinta y un minutos. = It is twenty-nine to eight\n\n3:45\nSon las tres cuarenta y cinco minutos. = It is quarter to four\n1:15\nEs la una y quince minutos. = It is quarter past one.\n\n8:30\nSon las ocho y media. = It is half past eight.\n2:30\nSon las dos y treinta. = It is half past two.\n
+    </string>
+    <string name="date_spanish"><h2><b><i>Days of the week\n</i></b></h2>\nLunes = Monday\nMartes = Tuesday\nMiércoles = Wednesday\nJueves = Thursday\nViernes = Friday\nSábado = Saturday\nDomingo = Sunday \n
+        <h2><b><i>\nThe months\n</i></b></h2>\nEnero  = January\nfebrero  = February\nMarzo  = March\nAbril = April\nMayo = May\nJunio = June\nJulio = July\nAgosto = August\nSeptiembre = September\nOctubre  = October\nNoviembre = November\nDiciembre = December\n
+        <h2><b><i>\nThe seasons\n</i></b></h2>\nPrimavera  = Spring\nVerano = Summer\nOtoño  = Autumn\nInvierno = Winter\n
+    </string>
+</resources>

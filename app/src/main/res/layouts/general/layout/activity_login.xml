@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".general.MainActivity"
+    android:background="#63A680">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:text="Kapi Language Learning"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textColor="#FFFF"
+        android:paddingVertical="70dp"
+        android:textSize="30dp"
+        android:fontFamily="cursive"
+        android:background="@drawable/background"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User mail:"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="#000000"/>
+
+    <EditText
+        android:id="@+id/user_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="30dp"
+        android:inputType="textWebEmailAddress"
+        android:textColor="@color/black"
+        android:autofillHints="Email address"
+        tools:ignore="LabelFor" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Password:"
+        android:layout_marginHorizontal="30dp"
+        android:textColor="#000000"/>
+
+    <EditText
+        android:id="@+id/user_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:inputType="textPassword"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/black"/>
+
+    <CheckBox
+        android:id="@+id/check_box_remember"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/black"
+        android:text="Remember me"
+        android:textColorHint="@color/black"
+        android:textColorLink="@color/black"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginBottom="25dp"
+        android:backgroundTint="#A0D9AE"
+        android:textColor="@color/black"
+        app:shapeAppearanceOverlay="@style/stadium"/>
+
+    <TextView
+        android:id="@+id/text_view_create_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Not an user yet? Create an Account here!"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/text_view_lost_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Have you lost your password?"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textColor="#000000"/>
+
+</LinearLayout>

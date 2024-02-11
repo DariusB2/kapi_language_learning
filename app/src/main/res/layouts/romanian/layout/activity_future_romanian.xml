@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#63A680">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#63A680">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_i_romanian"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            eu voi cânta — I will sing\n
+            ei vor cânta — they will sing" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_ii_romanian"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            eu voi fi cântat — I will have sung\n
+            ei vor fi cântat — they will have sung" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_popular_i_romanian"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            el o să cânte ceva pentru noi — he will sing something for us\n
+            el o să citească - he is going to read" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_popular_ii_romanian"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="16dp"
+            android:text="
+            el are să cânte ceva pentru noi — he will sing something for us\n
+            el are să citească - he is going to read" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:text="@string/future_past_romanian"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginTop="25dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginBottom="25dp"
+            android:textSize="16dp"
+            android:text="
+            aveam să cânt — I was going to sing\n
+            avea să cânte — He was going to sing\n
+            aveați să citiți? — Were you going to read?\n
+            aveau să vină — They were going to come" />
+    </LinearLayout>
+</ScrollView>

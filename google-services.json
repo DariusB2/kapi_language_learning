@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21470409245",
+    "project_id": "kapilanguagelearningdb",
+    "storage_bucket": "kapilanguagelearningdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21470409245:android:83733eb72943aa15e04cf4",
+        "android_client_info": {
+          "package_name": "kapi.language.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21470409245-4b348qgd3mtrqe91ttvakmfdam8vfjdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYkz6_ecPicMA4x7UOraWgS8CPcpe6q6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21470409245-4b348qgd3mtrqe91ttvakmfdam8vfjdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
